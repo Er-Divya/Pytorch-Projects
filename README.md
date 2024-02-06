@@ -3,7 +3,8 @@ This repository contains pytorch projects.
 
 Project 1: Image Classification using CNN:
 
-Dataset: CIFAR-10
+Dataset: CIFAR-10 
+
 Model: Convolutional Neural Network CNN
 CNN is a popular choice for image classification because they are capable of learning spatial hierarchies of features automatically like:
 
