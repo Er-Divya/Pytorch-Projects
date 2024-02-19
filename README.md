@@ -17,7 +17,7 @@ How does CNN work?
 
 1. The first hidden layer after the input layer in CNN is usually a convolution layer. 
 2. This layer applies filters on the input data to detect specific patterns like edges, textures, or shapes. 
-3. The filter in the context of CNN is a small weight matrix that often has a 3*3 or 5*5 size. 
+3. The filter in the context of CNN is a small weight matrix that often has a 3\*3 or 5*5 size. 
 4. Each filter is sensitive to a particular feature of the input data.
 5. These filters are learned during the training process to properly identify a particular feature concerning the training data.
 6. This filter or weight matrix is applied to the input data by covering a small portion of input data across width and height taking one step at a time.
